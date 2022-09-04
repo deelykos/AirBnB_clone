@@ -3,20 +3,6 @@
 
 # 🧐About
 Basically, the aim of this project, is to learn and apply concepts of high level programming and software engineering in general.
-
-# Execution
-## Your shell should work like this in interactive mode:
-$ ./console.py
-(hbnb) help
-
-Documented commands (type help <topic>):
-========================================
-EOF  help  quit
-
-(hbnb) 
-(hbnb) 
-(hbnb) quit
-$
  
  # ⛏️Built Using
 Python - Programming language
