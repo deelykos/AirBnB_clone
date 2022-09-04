@@ -16,4 +16,4 @@ But also in non-interactive mode:
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
 
 # ⛏️Built Using
-Python - Programming language
+Python - Programming language.
