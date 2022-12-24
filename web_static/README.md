@@ -1,1 +1,1 @@
-web_static
+3 web_static
