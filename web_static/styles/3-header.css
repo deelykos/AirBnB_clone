@@ -9,6 +9,9 @@ header {
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 .logo {
   background: url(../images/logo.png) no-repeat;
