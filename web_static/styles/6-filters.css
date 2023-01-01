@@ -58,6 +58,7 @@ ul.popover {
   padding-bottom: 20px;
   padding-top: 20px;
 }
+
 div.locations ul,
 div.amenities ul {
   display: none;
@@ -85,9 +86,28 @@ div.locations ul.popover li {
   position: relative;
   left: 50px;
   top: -15px;
+  padding-left: -80px;
 }
 div.amenities ul.popover li {
   display: flex;
   position: relative;
   left: 50px
+}
+
+/* Media querie */
+@media (max-width: 705px) {
+  .locations ul.popover {
+    margin-top: -17px;
+  }
+}
+@media (max-width: 707px) {
+  .amenities ul.popover {
+    margin-top: 0;
+  }
+  
+}
+@media (max-width: 654px) {
+  .amenities ul.popover {
+    margin-top: -17px;
+  }
 }
